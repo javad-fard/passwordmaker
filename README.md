@@ -1,4 +1,6 @@
-[If you want to run this tool.pdf]
-(https://github.com/javad-fard/passwordmaker/files/8370122/If.you.want.to.run.this.tool.pdf)
+if you want to run this tool ,you can use python 3
+
+>>python3 ...
+
 # passwordmaker
 yon can creat very hard password
